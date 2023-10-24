@@ -54,7 +54,7 @@ My name is Foluke Brown. I bring a deep passion for software developement, stron
 
 - 💬 Ask me about **General programming**
 
-- 📫 How to reach me **folukebrown@gmail.com**
+- 📫 How to reach me **brownfoluke@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
