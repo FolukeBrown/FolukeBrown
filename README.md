@@ -61,9 +61,7 @@ My name is Foluke Brown. I bring a deep passion for software developement, stron
 <!-- <p align="left"> <a href="https://discordapp.com/users/937085989942345768" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  -->
 
 <a href="https://github.com/FolukeBrown" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-
 <a href="https://www.linkedin.com/in/brown-foluke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-
 <a href="https://twitter.com/BrownFoluke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 <!-- <p align="left">
