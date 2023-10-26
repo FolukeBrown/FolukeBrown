@@ -57,7 +57,7 @@ My name is Foluke Brown. I bring a deep passion for software developement, stron
 
 - 📫 How to reach me **brownfoluke@gmail.com**
 
-- 📫 How to reach me **Curriculum** **Vitae**: [CV](https://github.com/FolukeBrown/CV/blob/master/Foluke_Brown_Resume.pdf)
+- 📫 My **Curriculum** **Vitae**: [CV](https://github.com/FolukeBrown/CV/blob/master/Foluke_Brown_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left"> <a href="https://discordapp.com/users/937085989942345768" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  -->
