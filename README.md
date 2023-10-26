@@ -27,7 +27,7 @@
 My name is Foluke Brown. I bring a deep passion for software developement, strong programming skills in Python and C, and the ability to continuous learning and staying up to date with industrial standards. My adaptability to problem solving mindset, and commitment to quality enable me to excel in dynamic environments. My excellent communication and interpersonal skills foster a productive team environment. I am exceted to use my technical expertise and project management skills to tackle challenges and deliver exceptional software solutions.
 
 
-## 👀 &nbsp;Profile Visits
+<!-- ## 👀 &nbsp;Profile Visits -->
 
 <!-- <img src="https://profile-counter.glitch.me/folukebrown/count.svg"> -->
 
@@ -66,7 +66,7 @@ My name is Foluke Brown. I bring a deep passion for software developement, stron
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=folukebrown&show_icons=true&locale=en" alt="folukebrown" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=folukebrown&" alt="folukebrown" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=folukebrown&" alt="folukebrown" /></p> -->
 
 ## 🐍 Contribution snake
 
