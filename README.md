@@ -47,7 +47,7 @@ My name is Foluke Brown. I bring a deep passion for software developement, stron
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=folukebrown" alt="folukebrown" /></a> </p> -->
 
-- 🔭 I’m currently working on [Shell Project](https://github.com/folukebrown/simple_shell)
+<!-- - 🔭 I’m currently working on [Shell Project](https://github.com/folukebrown/simple_shell) -->
 
 - 🌱 I’m currently learning **Python, C**
 
