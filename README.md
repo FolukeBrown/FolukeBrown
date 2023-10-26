@@ -1,12 +1,13 @@
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 <h1>😎Hello there! I'm Foluke Brown <img src="src/Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
 
 <!--  <h1>$${\color{orange}Hello\space \color{red} there! \space\color{green}I'm\space \color{red}Nikhila\space \color{red}K S}$$</h1> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Working+on+various+projects+...+;Fixing+bugs+..+;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Working+on+various+projects+...+;Fixing+bugs+..+;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg) -->
+
 <!-- <img align="right"  alt="GIF" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg" width="420" height="300" />-->
 
- <img align="right"  alt="GIF" src="https://github.com/Nikhila-KS/Nikhila-KS/assets/100426366/c469cccd-6cae-4eac-a1a3-ebc9fcaf409c" width="410" height="330" />
+ <!-- <img align="right"  alt="GIF" src="https://github.com/Nikhila-KS/Nikhila-KS/assets/100426366/c469cccd-6cae-4eac-a1a3-ebc9fcaf409c" width="410" height="330" /> -->
 
  ## Skills
 - 🔭 Web Development
@@ -28,23 +29,23 @@ My name is Foluke Brown. I bring a deep passion for software developement, stron
 
 ## 👀 &nbsp;Profile Visits
 
-<img src="https://profile-counter.glitch.me/folukebrown/count.svg">
+<!-- <img src="https://profile-counter.glitch.me/folukebrown/count.svg"> -->
 
 <br>
 
-## ⚙️Github Info 
+<!-- ## ⚙️Github Info 
 ### <b>⚡GitHub Analytics</b><br>
 <a href="https://github.com/folukebrown">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=folukebrown&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="183em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=folukebrown&layout=compact&langs_count=8&theme=algolia"/>
-</a><br>
+</a><br> -->
 
-### <b>🔥 Github Streaks</b> <br>
+<!-- ### <b>🔥 Github Streaks</b> <br>
 <p align="start"><img src="https://github-readme-streak-stats.herokuapp.com/?user=folukebrown&" alt="Streak" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=folukebrown&label=Profile%20views&color=0e75b6&style=flat" alt="folukebrown" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=folukebrown" alt="folukebrown" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=folukebrown" alt="folukebrown" /></a> </p> -->
 
 - 🔭 I’m currently working on [Shell Project](https://github.com/folukebrown/simple_shell)
 
@@ -63,7 +64,7 @@ My name is Foluke Brown. I bring a deep passion for software developement, stron
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=folukebrown&show_icons=true&locale=en&layout=compact" alt="folukebrown" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=folukebrown&show_icons=true&locale=en" alt="folukebrown" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=folukebrown&show_icons=true&locale=en" alt="folukebrown" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=folukebrown&" alt="folukebrown" /></p>
 
