@@ -74,10 +74,10 @@ My name is Foluke Brown. I bring a deep passion for software developement, stron
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=folukebrown&" alt="folukebrown" /></p> -->
 
-## 🐍 Contribution snake
+<!-- ## 🐍 Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
