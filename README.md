@@ -33,11 +33,23 @@ As an Information Technology graduate with an honors degree in Business Informat
 ## 📄 Curriculum Vitae
 For a detailed overview of my professional experience, please check out my [CV](https://github.com/FolukeBrown/CV/blob/master/Foluke_Brown_Resume.pdf).
 
-## 🌐 Portfolio
-Explore some of my work on [GitHub](https://github.com/FolukeBrown/), including projects like `simple_shell`, `printf`, and more.
+## 📜 Certifications
+Here are some of the certifications I've earned:
 
-<!-- Optionally add GitHub stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=folukebrown&show_icons=true&locale=en&theme=radical" alt="folukebrown" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=folukebrown&theme=radical" alt="folukebrown" />
-</p>
+- **C Programming Certification** - Programming Hub
+- **Python Programming** - University of Michigan (via Coursera)
+- **Introduction to Python Programming** - edX Professional Certificate
+- **Introduction to Frontend** - META (via Coursera)
+- **Programming with JavaScript** - META (via Coursera)
+- **HTML, CSS, and JavaScript for Web Developers** - John Hopkins University (via Coursera)
+
+## 🎓 Education
+
+- **BCom Honours in Business Informatics**  
+  University of South Africa (UNISA), Durban, South Africa (Feb 2024 - Dec 2025)
+
+- **Software Engineering - Frontend Specialization**  
+  ALX Africa, Johannesburg, South Africa (July 2024)
+
+- **BSc in Information Technology**  
+  Richfield Graduate Institute of Technology, Durban, South Africa (July 2023 - Aug 2023)
